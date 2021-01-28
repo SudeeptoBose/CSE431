@@ -1,1 +1,1 @@
-# CSE431
+# CSE431 Assingments
